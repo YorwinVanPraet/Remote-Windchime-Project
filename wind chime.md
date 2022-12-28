@@ -36,11 +36,22 @@ Down below you see all three: corkscrew, sword and windchime.
 ![WhatsApp Image 2022-12-28 at 14 35 59](https://user-images.githubusercontent.com/121553579/209816395-46ab2d93-5781-4f0a-a46e-ad047a4cd7c0.jpeg)
 
 - Joy-it mega
-- 
 
-- Resistors ...
-- trasistor ...
-- light sensor ...
+![image](https://user-images.githubusercontent.com/121553579/209836505-cbfb4a69-7ac0-4017-bc72-2b0ed78c50ab.png)
+
+
+- Breadboard
+
+![image](https://user-images.githubusercontent.com/121553579/209836441-bf4771b6-b304-4ffc-9cc0-56c5354460a4.png)
+
+- Conductor BC547B
+
+![image](https://user-images.githubusercontent.com/121553579/209837267-f5642846-94ac-4223-ab5e-8fd22f25cca3.png)
+
+
+- Resistors 10 kohm
+- Trasistor irf540n
+- Photo resitstor
 
 Down here you see the three: photoresitor, tranistor and resistor
 ![image](https://user-images.githubusercontent.com/121553579/209834156-413e4426-be45-44be-9163-e2733aeaeb7c.png)
